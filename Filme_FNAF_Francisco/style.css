@@ -60,3 +60,44 @@ margin-right: 100px;
 margin-top: 0px;
 
 }
+
+.texto3 p:hover{
+
+color: rgb(160, 92, 160);
+
+
+}
+
+.texto3 p{
+    
+    transition: 200ms ease-in;
+    padding: 0;
+    font-weight: 600;
+
+}
+
+.imgscharac img{
+
+    transition: 100ms ease-out;
+    padding: 0%;
+
+}
+
+.imgscharac img:hover{
+
+    transform: scale(1.5);
+
+}
+
+.imgjogos img{
+
+    transition: 100ms ease-out;
+    padding: 0%;
+
+}
+
+.imgjogos img:hover{
+
+    transform: scale(1.5);
+
+}
